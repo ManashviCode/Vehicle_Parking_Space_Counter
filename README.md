@@ -1,4 +1,4 @@
-# Vehicle parking Space Detection
+# Parking spot detection and counter 
 
 This project automatically detects empty parking spaces in a parking lot using surveillance camera footage. It works by extracting parking space coordinates, processing each space to determine if it's occupied or free, and displaying the results on the image.
 
