@@ -1,4 +1,4 @@
-# Car parking Space Detection
+# Vehicle parking Space Detection
 
 
  
@@ -6,7 +6,8 @@
 
 
 <p align="center">
-![Result](https://github.com/user-attachments/assets/61a444a2-e191-42e1-b652-77c53ee4da10)
+![Result](https://github.com/user-attachments/assets/31418bc4-f2d4-4fef-b042-c3b4dfeb253d)
+
 
 
 ## Problem Defination
