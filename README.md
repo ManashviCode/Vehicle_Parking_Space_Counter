@@ -42,3 +42,9 @@ This project automatically detects empty parking spaces in a parking lot using s
 
 ## Note 
 - CarParkingPos  is a pickle file which stores the empty car parking positions.  The car park areas represented as rectangle and they stored with coordinate of  its top left point.
+
+## Presentation demo
+
+https://github.com/user-attachments/assets/3777bd71-e0c2-4b76-9705-bcf3ad38c3e9
+
+
